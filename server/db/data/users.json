@@ -1,13 +1,9 @@
+[
 {
-  "users":
-	[
-	   {
-		 "id": 32,
- 		 "firstName": "Alejandro",
- 		 "lastName": "Herrera",
- 		 "email": "ah@gmail.com",
-  	 "voice": 2,
-  	 "job": "estudents"
-	   }
-	]
-}
+    "id": 1,
+    "firstName": "Soledad",
+    "lastName": "Lopez",
+    "email": "<TODO>@gmail.com",
+    "username": "sol-22",
+    "password": "12345"
+}]
