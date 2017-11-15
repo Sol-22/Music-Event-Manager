@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 "id": 1,
 "firstName": "Alejandro",
@@ -38,3 +39,14 @@
 "voice": 2,
 "job": "estudents"
 }
+=======
+[
+{
+    "id": 32,
+    "firstName": "Alejandro",
+    "lastName": "Herrera",
+    "email": "ah@gmail.com",
+    "voice": 2,
+    "job": "estudents"
+}]
+>>>>>>> b75f04f58c8eff202b4a73c2e5faff3ffed3605e

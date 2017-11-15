@@ -1,13 +1,12 @@
+[
 {
   "users":
 	[
-	   {
-		 "id": 22,
- 		 "firstName": "Soledad",
- 		 "lastName": "Lopez",
- 		 "email": "sl@gmail.com",
-  	 "voice": 1,
-  	 "job": "director"
-	   }
+    "id": 1,
+    "firstName": "Soledad",
+    "lastName": "Lopez",
+    "email": "sol.noeli.lopez@gmail.com",
+    "username": "sol-22",
+    "password": "12345"
 	]
 }
