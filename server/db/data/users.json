@@ -1,12 +1,10 @@
 [
-{
-  "users":
-	[
-    "id": 1,
-    "firstName": "Soledad",
-    "lastName": "Lopez",
-    "email": "sol.noeli.lopez@gmail.com",
-    "username": "sol-22",
-    "password": "12345"
-	]
-}
+  {
+  "id": 1,
+  "firstName": "Soledad",
+  "lastName": "Lopez",
+  "email": "sol.noeli.lopez@gmail.com",
+  "username": "sol-22",
+  "password": "12345"
+  }
+]
