@@ -2,12 +2,12 @@
   "users":
 	[
 	   {
-		 "id": 32,
- 		 "firstName": "Alejandro",
- 		 "lastName": "Herrera",
- 		 "email": "ah@gmail.com",
-  	 "voice": 2,
-  	 "job": "estudents"
+		 "id": 22,
+ 		 "firstName": "Soledad",
+ 		 "lastName": "Lopez",
+ 		 "email": "sl@gmail.com",
+  	 "voice": 1,
+  	 "job": "director"
 	   }
 	]
 }
