@@ -1,13 +1,9 @@
+[
 {
-   "events":
-	[
-	   {
-		 "id": 15 ,
- 		 "site": "C sinName",
- 		 "location": "maps",
- 		 "hour": 12,
-  		 "detail": "",
-  		 "repertorie": ""
-	   }
-	]
-}
+    "id": 15,
+    "site": "C sinName",
+    "location": "maps",
+    "hour": 12,
+    "detail": "",
+    "repertorie": ""
+}]
