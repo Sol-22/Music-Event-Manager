@@ -1,33 +1,33 @@
 [
 {
-    "id": 1,
-    "nameEvent": "Palau Sant Jordi",
-    "locateEvent": "Passeig Olimpic, 5-7 - Barcelona",
-    "eventDate": "2018-01-21T23:32:18Z",
-    "infoEvent": "El Palau Sant Jordi es un recinto multifuncional que acoge conciertos de música pop, rock, espectáculos familiares y eventos deportivos en Barcelona. Posee una capacidad de 24.000 espectadores",
-    "repertorie": ""
+    "_id": "5a04c5ae1d195c4e88dbfca1",
+    "name": "Palau Sant Jordi",
+    "location": "Passeig Olimpic, 5-7 - Barcelona",
+    "date": "2018-01-21T23:32:18Z",
+    "description": "El Palau Sant Jordi es un recinto multifuncional que acoge conciertos de música pop, rock, espectáculos familiares y eventos deportivos en Barcelona. Posee una capacidad de 24.000 espectadores",
+    "repertorie": "?"
 },
 {
-    "id": 2,
-    "nameEvent": "Pop Festival Sala Pelícano  ",
-    "locateEvent": "Los Cantones, Av. do Porto - A Coruña",
-    "eventDate": "2018-01-21T23:32:18Z",
-    "infoEvent": "El PELÍCANO es una de las salas de conciertos más espectaculares de Europa. Su estructura interna y equipamiento técnico hacen de esta sala uno de los lugares de referencia para artistas de trayectoria internacional.",
-    "repertorie": ""
+    "_id": "5a04c5ae1d195c4e88dbfca2",
+    "name": "Pop Festival Sala Pelícano",
+    "location": "Los Cantones, Av. do Porto - A Coruña",
+    "date": "2018-01-21T23:32:18Z",
+    "description": "El PELÍCANO es una de las salas de conciertos más espectaculares de Europa. Su estructura interna y equipamiento técnico hacen de esta sala uno de los lugares de referencia para artistas de trayectoria internacional.",
+    "repertorie": "?"
 },
 {
-    "id": 3,
-    "nameEvent": "Tributo Sala Apolo",
-    "locateEvent": "Carrer Nou de la Rambla, 113 - Barcelona",
-    "eventDate": "2018-01-21T23:32:18Z",
-    "infoEvent": "La Sala Apolo tiene una espectacular Acustica para conciertos, buen sonido y precios en barra asequibles",
-    "repertorie": ""
+    "_id": "5a04c5ae1d195c4e88dbfca3",
+    "name": "Tributo Sala Apolo",
+    "location": "Carrer Nou de la Rambla, 113 - Barcelona",
+    "date": "2018-01-21T23:32:18Z",
+    "description": "La Sala Apolo tiene una espectacular Acustica para conciertos, buen sonido y precios en barra asequibles",
+    "repertorie": "?"
 },
 {
-    "id": 4,
-    "nameEvent": "Spring´S Team Sala Luz de Gas",
-    "locateEvent": "C/Muntaner, 246 - Barcelona",
-    "eventDate": "2018-01-21T23:32:18Z",
-    "infoEvent": "La Sala Luz de Gas Cortinas rojas y lámparas de araña en sala de conciertos y discoteca selecta decorada como un teatro clásico que hacen del lugar una inolvidable experiencia",
-    "repertorie": ""
+    "_id": "5a04c5ae1d195c4e88dbfca4",
+    "name": "Spring´S Team Sala Luz de Gas",
+    "location": "C/Muntaner, 246 - Barcelona",
+    "date": "2018-01-21T23:32:18Z",
+    "description": "La Sala Luz de Gas Cortinas rojas y lámparas de araña en sala de conciertos y discoteca selecta decorada como un teatro clásico que hacen del lugar una inolvidable experiencia",
+    "repertorie": "?"
 }]

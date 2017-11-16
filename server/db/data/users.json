@@ -1,10 +1,9 @@
 [
-  {
-  "id": 1,
-  "firstName": "Soledad",
-  "lastName": "Lopez",
-  "email": "sol.noeli.lopez@gmail.com",
-  "username": "sol-22",
-  "password": "12345"
-  }
-]
+{
+    "_id": "5a04c5ae1d195c4e88dbf100",
+    "firstName": "Soledad",
+    "lastName": "Lopez",
+    "email": "sol.noeli.lopez@gmail.com",
+    "username": "sol-22",
+    "password": "12345"
+}]
